@@ -74,7 +74,8 @@ Members Table
 |---修改時間
 ```
 
-##創建資料庫步驟
+
+## 創建資料庫步驟
 
 創建資料庫：
 ```cmd
@@ -149,5 +150,5 @@ go run main.go
 
 因一些環境參數的因素
 
-1.建議使用go run main.go
-2.docker不用network以免影響sql的連線
+1. 建議使用go run main.go</br>
+2. docker不使用network以免影響sql的連線
