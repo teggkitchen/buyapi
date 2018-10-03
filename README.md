@@ -146,7 +146,7 @@ go run main.go
 ```
 
 ## 使用postman
-[Postman檔案](https://git-scm.com/docs/git-commit)
+[Postman檔案](https://github.com/teggkitchen/buyapi/blob/master/postman/BuyApi.postman_collection.json)
 
 ## 備註
 
@@ -162,14 +162,21 @@ go run main.go
 
 ## 運行實例
 
-docker創建
+### 資料庫內容
 ![alt tag](https://github.com/teggkitchen/buyapi/blob/master/temp/1.png)
 
+![alt tag](https://github.com/teggkitchen/buyapi/blob/master/temp/2.png)
 
-資料庫控制
+![alt tag](https://github.com/teggkitchen/buyapi/blob/master/temp/3.png)
+
+![alt tag](https://github.com/teggkitchen/buyapi/blob/master/temp/4.png)
 
 
-運行時
+### Docker創建MySQL
+![alt tag](https://github.com/teggkitchen/buyapi/blob/master/temp/5.png)
 
 
+### Go運行
+![alt tag](https://github.com/teggkitchen/buyapi/blob/master/temp/6.png)
 
+![alt tag](https://github.com/teggkitchen/buyapi/blob/master/temp/7.png)
