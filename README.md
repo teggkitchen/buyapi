@@ -163,6 +163,7 @@ go run main.go
 ## 運行實例
 
 docker創建
+![alt tag](https://github.com/teggkitchen/buyapi/blob/master/temp/1.png)
 
 
 資料庫控制
