@@ -1,4 +1,4 @@
-# 會員購物車 For Golang Gin Restful API
+# 會員購物 Golang Gin Restful API
 
 
 
