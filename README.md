@@ -146,7 +146,7 @@ go run main.go
 ```
 
 ## 使用postman
-[https://git-scm.com/docs/git-commit](import postman檔案)
+[import postman檔案](https://git-scm.com/docs/git-commit)
 
 ## 備註
 
