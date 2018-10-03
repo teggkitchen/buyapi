@@ -145,6 +145,8 @@ num INT
 go run main.go
 ```
 
+## 使用postman
+[https://git-scm.com/docs/git-commit](import postman檔案)
 
 ## 備註
 
@@ -152,6 +154,7 @@ go run main.go
 
 1. 建議使用go run main.go</br>
 2. docker不使用network以免影響sql的連線
+
 
 
 
@@ -167,7 +170,5 @@ docker創建
 
 運行時
 
-
-寫入時
 
 
