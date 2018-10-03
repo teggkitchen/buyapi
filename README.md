@@ -146,8 +146,8 @@ go run main.go
 ```
 
 ## 使用postman
-[Postman檔案](https://github.com/teggkitchen/buyapi/blob/master/postman/BuyApi.postman_collection.json)
-<a href="http://www.w3school.com.cn/i/w3school_logo_white.gif" download="w3logo">aaa
+<!-- [Postman檔案](https://github.com/teggkitchen/buyapi/blob/master/postman/BuyApi.postman_collection.json) -->
+<a href="https://github.com/teggkitchen/buyapi/blob/master/postman/BuyApi.postman_collection.json" download="postman.json">Postman檔案
 </a>
 
 ## 備註
