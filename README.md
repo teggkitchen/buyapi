@@ -152,3 +152,22 @@ go run main.go
 
 1. 建議使用go run main.go</br>
 2. docker不使用network以免影響sql的連線
+
+
+
+
+
+## 運行實例
+
+docker創建
+
+
+資料庫控制
+
+
+運行時
+
+
+寫入時
+
+
