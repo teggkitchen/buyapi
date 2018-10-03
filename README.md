@@ -147,6 +147,8 @@ go run main.go
 
 ## 使用postman
 [Postman檔案](https://github.com/teggkitchen/buyapi/blob/master/postman/BuyApi.postman_collection.json)
+<a href="/i/w3school_logo_white.gif" download="w3logo">aaa
+</a>
 
 ## 備註
 
