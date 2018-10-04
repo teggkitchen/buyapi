@@ -1,7 +1,7 @@
 # 會員購物 Golang Gin Restful API
 
 
-## 框架
+## 框架使用
 框架：**Gin**
 
 資料庫：**MySQL**
