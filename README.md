@@ -1,6 +1,13 @@
 # 會員購物 Golang Gin Restful API
 
 
+## 框架
+框架：**Gin**
+
+資料庫：**MySQL**
+
+ORM：**GORM**
+
 
 ## 運行專案前置
 
