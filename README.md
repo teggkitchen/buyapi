@@ -123,17 +123,17 @@ num INT
 
 創建Members資料表：
 ```cmd
-# CREATE TABLE Members(
-# id  INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-# email VARCHAR(100),
-# password VARCHAR(100),
-# token VARCHAR(255),
-# phone VARCHAR(100),
-# is_email_verify INT(1),
-# is_phone_verify INT(1),
-# created_at DATETIME DEFAULT NULL,
-# updated_at DATETIME DEFAULT NULL
-# )ENGINE=InnoDB DEFAULT CHARSET=utf8;
+CREATE TABLE Members(
+id  INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+email VARCHAR(100),
+password VARCHAR(100),
+token VARCHAR(255),
+phone VARCHAR(100),
+is_email_verify INT(1),
+is_phone_verify INT(1),
+created_at DATETIME DEFAULT NULL,
+updated_at DATETIME DEFAULT NULL
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
 
 
